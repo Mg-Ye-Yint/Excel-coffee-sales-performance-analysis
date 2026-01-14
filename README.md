@@ -26,4 +26,4 @@ Business Analysis - Visualization of coffee sales over 3 years for the sales tea
 - Focus customer loylaties in the United States and the United Kingdom.
 - Generate profit from adjusting price for different sizes in low seasons.
 
-  
+![Coffee Sales Dashboard](Screenshot%202026-01-14%20135245.png)
